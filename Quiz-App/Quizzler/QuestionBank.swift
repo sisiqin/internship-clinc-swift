@@ -2,8 +2,8 @@
 //  QuestionBank.swift
 //  Quizzler
 //
-//  Created by shiMac on 6/25/18.
-//  Copyright © 2018 London App Brewery. All rights reserved.
+//  Created by Xi Qin on 02/13/19.
+//  Copyright © 2019 Xi Qin. All rights reserved.
 //
 
 import Foundation

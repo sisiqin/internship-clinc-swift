@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  I am Rich
 //
-//  Created by Archit Garg on 21/11/18.
-//  Copyright © 2018 Archit tech. All rights reserved.
+//  Created by Xi Qin on 02/10/19.
+//  Copyright © 2019 Xi Qin. All rights reserved.
 //
 
 import UIKit

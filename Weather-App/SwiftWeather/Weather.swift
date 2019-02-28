@@ -2,8 +2,8 @@
 //  Weather.swift
 //  JSON
 //
-//  Created by Brian Advent on 11.05.17.
-//  Copyright © 2017 Brian Advent. All rights reserved.
+//  Created by Xi Qin on 02/24/19.
+//  Copyright © 2019 Xi Qin. All rights reserved.
 //
 
 import Foundation
